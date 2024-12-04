@@ -35,9 +35,4 @@ dev_dependencies:
   path: ^1.8.3
 
 platforms:
-  android:
-  ios:
-  linux:
-  macos:
-  windows:
   web:
