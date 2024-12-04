@@ -20,11 +20,6 @@ dev_dependencies:
 flutter:
   plugin:
     platforms:
-      android:
-        package: com.powersync.powersync_flutter_libs
-        pluginClass: PowersyncFlutterLibsPlugin
-      ios:
-        pluginClass: PowersyncFlutterLibsPlugin
       linux:
         pluginClass: PowersyncFlutterLibsPlugin
       macos:
